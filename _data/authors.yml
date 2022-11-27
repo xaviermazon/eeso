@@ -1,0 +1,30 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
+
+Mario:
+  name: Mario Konstanty Kochan Chmielik
+  url: https://github.com/ShadowFurtive
+
+Xavier:
+  name: Xavier Mazon Borrás
+  twitter: https://twitter.com/XavierMazon1990
+  url: https://xaviermazon.github.io/
+
+Daniel:
+  name: Daniel Gonzalez Vicenzo
+  url: https://google.com/

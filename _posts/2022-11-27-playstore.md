@@ -3,7 +3,7 @@ title: Com configurar els controls parentals a Google Play(Android)
 author: Daniel
 date: 2022-11-27 17:04:00 +0100
 configuracions: [Configuracions, Plataformas]
-tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+tags: [configurar, tutorial, playstore, android, control, parental, mobil, smartphone, acces, xarxa, dispositiu, restringir, comptes, google, jocs, TV, televisio, llibres, pel·licules, nivell, family, link, consells, important, protegir, usuaris, persona, play, store, aplicació]
 ---
 
 Quan poseu controls parentals en un dispositiu Android, podeu restringir quin contingut es pot descarregar o comprar a Google Play en aquest dispositiu en funció del nivell de maduresa.

@@ -44,6 +44,8 @@ Before starting, please follow the instructions in the [Jekyll Docs](https://jek
 
 Create a new repository from the [**Chirpy Starter**](https://github.com/cotes2020/chirpy-starter/generate) and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
+
+
 ### Step 2. Installing Dependencies
 
 Before running for the first time, go to the root directory of your site, and install dependencies as follows:
@@ -56,7 +58,10 @@ $ bundle
 
 Run the following command in the root directory of the site:
 
+
 ```console
+$ sudo apt-get install ruby-full build-essential
+$ bundle install
 $ bundle exec jekyll s
 ```
 

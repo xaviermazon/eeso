@@ -5,6 +5,7 @@ author: Mario
 date: 2022-11-24 13:00:00 +0100 
 configuracions: [Configuracions, Routers]
 tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+category: "socialmedia"
 ---
 
 Fa relativament poc que s’ha implementat la funcionalitat de supervisió de Instagram consistent en una sèrie d’estadístiques i eines orientades a aquells pares que volen tenir un cert control de l’activitat del seu fill en la xarxa social. Totes dues parts han d’estar d’acord en participar en aquesta supervisió. Qualsevol tant el supervisant com el supervisat poden inhabilitar aquesta funció, però l’altre persona rebrà un avís.

@@ -5,11 +5,12 @@ layout: page
 
 {% assign df_strftime_m = site.data.locales[site.lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[site.lang].df.archives.dayjs | default: '/ MM' %}
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>            
 
 <div id="archives" class="pl-xl-3">
 
 {% for post in site.posts %}
-  {% if post.category == "Plataformes" %}
+  {% if post.category == "sis_operatius" %}
     {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 
     {% if cur_year != last_year %}

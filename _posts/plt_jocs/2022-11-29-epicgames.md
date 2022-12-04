@@ -5,6 +5,8 @@ author: Mario
 date: 2022-11-24 13:00:00 +0100 
 configuracions: [Configuracions, Routers]
 tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+category: "plt_jocs"
+
 ---
 
 Epic games es una plataforma internacional per comprar i jugar videojocs. Per tal de salvaguardar la seguretat dels més petits, s'explicara a continuació com aplicar el control parental.

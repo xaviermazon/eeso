@@ -1,10 +1,11 @@
 <!--
   The Side Bar
 -->
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>            
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
-    <div id="avatar">
+    <!-- <div id="avatar">
       <a href="{{ '/' | relative_url }}" class="mx-auto">
         {% if site.avatar != empty and site.avatar %}
           {% capture avatar_url %}
@@ -19,7 +20,7 @@
           <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'">
         {% endif %}
       </a>
-    </div>
+    </div> -->
 
     <div class="site-title">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
@@ -37,6 +38,7 @@
         <span>{{ site.data.locales[site.lang].tabs.home | upcase }}</span>
       </a>
     </li>
+    
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">

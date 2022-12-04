@@ -4,6 +4,7 @@ author: Mario
 date: 2022-11-24 13:00:00 +0100 
 configuracions: [Configuracions, Routers]
 tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+category: "streaming"
 ---
 Amazon prime video es una aplicació multiplataforma que permet fer streamings online de series i pel·lícules que hi ha en el seu catàleg. Hi ha pel·lícules i series de tot tipus, que algunes no poden ser les més adequades per als més menuts de la casa. A continuació explicarem com activar el control parental.
 

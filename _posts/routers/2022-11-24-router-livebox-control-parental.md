@@ -4,6 +4,7 @@ author: Mario
 date: 2022-11-24 13:00:00 +0100
 configuracions: [Configuracions, Routers]
 tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+category: "routers"
 ---
 
 Livebox és el nom de la empresa que fabrica els routers usats per orange i jazztel. Aquests routers, entre moltes opcions que tenen, ens permeten configurar el control parental. A continuació expliquem com.

@@ -1,9 +1,9 @@
 ---
 title: Google Play(Android)
 author: Daniel
-date: 2022-11-27 17:04:00 +0100
+date: 2022-10-09 17:04:00 +0100
 configuracions: [Configuracions, Plataformas]
-tags: [configurar, tutorial, playstore, android, control, parental, mobil, smartphone, acces, xarxa, dispositiu, restringir, comptes, google, jocs, TV, televisio, llibres, pel·licules, nivell, family, link, consells, important, protegir, usuaris, persona, play, store, aplicació]
+tags: [configurar, tutorial, playstore, android, control, parental, mobil, smartphone, acces, xarxa, dispositiu, restringir, comptes, Google, jocs, TV, televisio, llibres, pel·licules, nivell, family, link, consells, important, protegir, usuaris, persona, PlayStore, aplicació, escrit per Daniel, 9 de Octubre de 2022, Android]
 category: "plt_jocs"
 ---
 # Com configurar els controls parentals a Google Play(Android)

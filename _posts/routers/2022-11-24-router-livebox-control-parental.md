@@ -1,9 +1,9 @@
 ---
 title: ROUTER LIVEBOX - CONTROL PARENTAL
 author: Mario
-date: 2022-11-24 13:00:00 +0100
+date: 2022-10-29 13:00:00 +0100
 configuracions: [Configuracions, Routers]
-tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel]
+tags: [configurar, tutorial, router, orange, teleoperadora, control, parental, pc, libebox, acces, xarxa, dispositiu, restringir, jazztel, 29 d'octubre de 2022, escrit per Mario, cable, Wifi, IP, IPv6, MAC]
 category: "routers"
 ---
 

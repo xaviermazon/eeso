@@ -1,5 +1,5 @@
 ---
-title: AMAZON PRIME VIDEO
+title: Amazon Prime Video
 author: Mario
 date: 2022-11-29 13:00:00 +0100
 configuracions: [Configuracions, Routers]

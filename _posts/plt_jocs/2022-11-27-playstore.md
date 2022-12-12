@@ -1,5 +1,5 @@
 ---
-title: Google Play(Android)
+title: Google Play (Android)
 author: Daniel
 date: 2022-10-09 17:04:00 +0100
 configuracions: [Configuracions, Plataformas]

@@ -1,8 +1,8 @@
 ---
-title: EPIC GAMES - Control parental
+title: Epic Games
 author: Mario
 date: 2022-11-29 13:00:00 +0100
-configuracions: [Configuracions, Routers]
+configuracions: [Configuracions, Plataformes de Joc]
 tags: [configurar, tutorial, plataforma de videojocs, tenda online, comprar, control, parental, pc, EpicGames, Epic, Games, Fonite, xats, xats i veus, comunicacions, limitar, 29 de Novembre de 2022, escrit per Mario, PEGI +18, correu, direcció email, PIN]
 category: "plt_jocs"
 

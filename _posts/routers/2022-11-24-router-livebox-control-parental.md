@@ -1,5 +1,5 @@
 ---
-title: ROUTER LIVEBOX - CONTROL PARENTAL
+title: Router Livebox
 author: Mario
 date: 2022-10-29 13:00:00 +0100
 configuracions: [Configuracions, Routers]

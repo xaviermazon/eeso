@@ -6,11 +6,12 @@ configuracions: [Configuracions, Routers]
 tags: [configurar, tutorial, plataforma de videos, series i pel·lícules, series, pel·lícules, escrit per Mario, 29 de Novembre de 2022, control, parental, pc, web, acces, xarxa, Amazon, Amazon Prime, Amazon Prime Video, restringir, streaming, codi, PIN, multiplataforma, Android, IOS, tablet, smartphone, online, cataleg, compte, comprar, contingut, limitar, impportant]
 category: "streaming"
 ---
-Amazon prime video es una aplicació multiplataforma que permet fer streamings online de series i pel·lícules que hi ha en el seu catàleg. Hi ha pel·lícules i series de tot tipus, que algunes no poden ser les més adequades per als més menuts de la casa. A continuació explicarem com activar el control parental.
+
+Amazon prime video es una aplicació multiplataforma que permet fer streamings en línia de sèries i pel·lícules que hi ha en el seu catàleg. Hi ha pel·lícules i sèries de tota mena, que algunes no poden ser les més adequades per als més menuts de la casa. A continuació explicarem com activar el control parental.
 
 # Accedir al control parental
 
-El primer que s'ha de fer es accedir es a la pagina de amazon prime video. Un cop dintre, ens anem al nostre perfil i busquem la opció "Compte i configuració".
+El primer que s'ha de fer és accedir és a la pàgina de amazon prime video. Un cop dintre, ens anem al nostre perfil i busquem l'opció "Compte i configuració".
 
 >![Desktop View](/assets/img/amazonprime/image3.png)
 
@@ -18,30 +19,18 @@ Un cop dintre, anem a la pestanya anomenada "Control parental"
 
 >![Desktop View](/assets/img/amazonprime/image5.png)
 
-## Primer pas: crear un codi PIN
-Per tal de poder fer la configuració, hem de crear primer un codi PIN.
-El codi PIN ha de ser un número fàcil d'aprendre i que sols els pares sàpiguen quin és. Es guardarà el codi PIN, i a partir d'ahí, es podrà configurar el control parental.
-
-El propi PIN, en cas de que s'olvidi quin és, es pot canviar en la mateixa pàgina on s'ha configurat inicialment el control parental i el PIN anterior.
-
-# Configuracions posibles:
-### [1. Restriccions de compres](#restriccions-de-compres)
-### [2. Limitació del contingut](#limitació-del-contingut)
-### [3. Aplicar limitació segons dispositiu](#aplicar-limitació-segons-dispositiu)
-
-## 1. Restriccions de compres
-La primera opció que ens permet modificar es la de les restriccions de compres. Aquesta opció activa que per cada compra realitzada en amazon prime video, es tingui que introduïr el codi PIN establert anteriorment.
+## Configuració inicial
+Per tal de poder fer la configuració, hem de crear primer un codi PIN. El codi PIN ha de ser un número fàcil d'aprendre i que sols els pares sàpiguen quin és. Es guardarà el codi PIN, i a partir d'aquí, es podrà configurar el control parental.
+El mateix PIN, en cas que s'oblidi quin és, es pot canviar en la mateixa pàgina on s'ha configurat inicialment el control parental i el PIN anterior.
+La primera opció que ens permet modificar és la de les restriccions de compres. Aquesta opció activa que per cada compra realitzada en amazon prime video, es tingui que introduir el codi PIN establert anteriorment.
 
 >![Desktop View](/assets/img/amazonprime/image4.png)
 
-## 2. Limitació del contingut
-
-L'altra opció posible es limitar quines series i pel·lícules es poden veure. És a dir, totes aquelles series que no entrin en el rang establert, es demanara el codi PIN per tal de poder veure els capítols.
+L'altra opció possible és limitar quines sèries i pel·lícules es poden veure. És a dir, totes aquelles sèries que no entrin en el rang establert, es demanarà el codi PIN per tal de poder veure els capítols.
 
 >![Desktop View](/assets/img/amazonprime/image2.png)
 
-## 3. Aplicar limitació segons dispositiu
-Aquestes restriccions es poden limitar per a certs dispositius (per exemple, no volem que el nostre telèfon es vegi afectat per el control parental). Això ho podem definir al final de tot, on ens demana que seleccionem els dispositiu afectats. Si per exemple, el nostre fill sols fa ús dels navegadors com ara chrome o firefox, podem seleccionar que aquestes restriccions sols s'apliquin per a navegadors web.
+Aquestes restriccions es poden limitar per a certs dispositius (per exemple, no volem que el nostre telèfon es vegi afectat pel control parental). Això ho podem definir al final de tot, on ens demana que seleccionem els dispositius afectats. Si per exemple, el nostre fill sols fa ús dels navegadors com ara chrome o firefox, podem seleccionar que aquestes restriccions sols s'apliquin per a navegadors web.
 
 >![Desktop View](/assets/img/amazonprime/image1.png)
 

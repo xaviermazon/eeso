@@ -8,57 +8,46 @@ category: "plt_jocs"
 
 ---
 
-Epic games es una plataforma internacional per comprar i jugar videojocs. Per tal de salvaguardar la seguretat dels més petits, s'explicara a continuació com aplicar el control parental.
+## Configuració inicial
 
-## Primers pasos:
-El primer que s'ha de fer es entrar en l'aplicació Epic Games, mitjançant web o escriptori, i  accedir al nostre compte.
+Epic games és una plataforma internacional per comprar i jugar videojocs. Per tal de salvaguardar la seguretat dels més petits, s'explicarà a continuació com aplicar el control parental.
+El primer que s'ha de fer és entrar en l'aplicació Epic Games, mitjançant web o escriptori, i accedir al nostre compte.
 
 >![Desktop View](/assets/img/epicgames/image3.png)
 
-Un cop dintre, es selecciona l'apartat **"Control parental"**. Dintre d'aquest apartat, se'ns demana introduir un nou codi que serà utilitzat per identificar-nos per tal de fer canvis de configuració o realitzar una acció que es troba fora dels permisos que establirem a continuació:
+Un cop dintre, se selecciona l'apartat "Control parental". Dintre d'aquest apartat, se'ns demana introduir un nou codi que serà utilitzat per identificar-nos per tal de fer canvis de configuració o realitzar una acció que es troba fora dels permisos que establirem a continuació:
 
 >![Desktop View](/assets/img/epicgames/image4.png)
 
-# Configuracions posibles:
+Opcions
 Un cop introduït el codi parental, hi haurà diferents opcions per configurar en la pantalla d'opcions. S'ha de tenir en compte que aquestes limitacions sols s'apliquen per a la plataforma  EPIC GAMES, plataformes externes com ara: Nintendo Switch, Steam, PlayStations o Xbox no se'ls aplica aquestes restriccions:
-
-### [1. Compres ](#limitació-sobre-les-compres)
-### [2. Amics](#limitació-sobre-els-amics)
-### [3. Comunicacions de xat i veu](#comunicacions-de-xat-i-veu)
-### [4. Extres](#aplicar-limitació-segons-dispositiu)
-
-
-## 1. Limitació sobre les compres
-1. **Pagar en epic games:** Es necesitarà el pin parental per tal de poder fer compres en la plataforma.
+1. Pagar en Epic Games: Es necessitarà el pin parental per tal de poder fer compres en la plataforma.
 
     >![Desktop View](/assets/img/epicgames/image2.png)
 
-2. **Limitar quins jocs es poden comprar:** Es pot escollir, en cas de que el menor pugui fer compres, quins jocs pot comprar sense supervisió. El sistema de calificació europeu es PEGI, on PEGI 3 és el joc per els més petits i el PEGI 18 són els jocs +18. També, automàticament, si l'usuari es menor a 13 anys, es limita la compra de jocs a 100€ diaris.
+2. Limitar quins jocs es poden comprar: Es pot escollir, en cas que el menor pugui fer compres, quins jocs pot comprar sense supervisió. El sistema de qualificació europeu és PEGI, on PEGI 3 és el joc per als més petits i el PEGI 18 són els jocs +18. També, automàticament, si l'usuari és menor a 13 anys, es limita la compra de jocs a 100€ diaris.
+
 
     >![Desktop View](/assets/img/epicgames/image9.png)
 
-## 2. Limitació sobre els amics
-Es requerirà el PIN per tal d'afegir amics en jocs i productes d'Epic.
+3. Afegir amics: Es requerirà el PIN per tal d'afegir amics en jocs i productes d'Epic.
 
 >![Desktop View](/assets/img/epicgames/image7.png)
 
-## 3. Comunicacions de xat i veu
-Es pot configurar per tal de que parli amb tothom, amb els amics i companys, sols amb amics i amb ningú.
+4. Amb qui pot parlar per al xat de veu i per al xat escrit: Es pot configurar per tal que parli amb tothom, amb els amics i companys, sols amb amics i amb ningú.
 
 >![Desktop View](/assets/img/epicgames/image8.png)
 
-## 4. Extres
-1. **Filtrar el llenguatge adult** _(El llenguatge adult són paraulotes, amenaces i paraules agressives en general)_.
-2. **Rebre informes del temps de joc en la plataforma.**
+5. Addicional: Filtrar el llenguatge adult i rebre informes del temps de joc en la plataforma. El llenguatge adult és paraulotes, amenaces i paraules agressives en general.
 
 >![Desktop View](/assets/img/epicgames/image5.png)
 
 ## Opcions de canvi o restabliment de PIN.
-En cas de que tinguem que canviar el PIN, es podrà fer mitjançant la primera opció que ens surt en la pàgina web quan entrem a l'opció de control parental:
+En cas que hàgem de canviar el PIN, es podrà fer mitjançant la primera opció que ens surt en la pàgina web quan entrem a l'opció de control parental:
 
 >![Desktop View](/assets/img/epicgames/image6.png)
 
-També pot ocorrer que se'ns hagi olvidat el PIN. Per aquest cas, hi ha una opció anomenada "Heu olvidat el PIN?" quan estem en la finestra per introduir el PIN.
+També pot ocórrer que se'ns hagi oblidat el PIN. Per aquest cas, hi ha una opció anomenada "Heu oblidat el PIN?" quan estem en la finestra per introduir el PIN.
 
 >![Desktop View](/assets/img/epicgames/image1.png)
 

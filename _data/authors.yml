@@ -6,25 +6,34 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
-
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
-
-Mario:
-  name: Mario Konstanty Kochan Chmielik
-  url: https://github.com/ShadowFurtive
+Lucas:
+  name: Lucas Efrain Espinola Benitez
+  url: /Nosaltres/
 
 Xavier:
   name: Xavier Mazon Borrás
-  twitter: https://twitter.com/XavierMazon1990
-  url: https://xaviermazon.github.io/
+  url: /Nosaltres/
+
+Denise:
+  name: Denise Navarro Aguilar
+  url: /Nosaltres/
+
+Mario:
+  name: Mario Konstanty Kochan Chmielik
+  url: /Nosaltres/
 
 Daniel:
   name: Daniel Gonzalez Vicenzo
-  url: https://google.com/
+  url: /Nosaltres/
+
+Nil:
+  name: Nil Blanca Martret
+  url: /Nosaltres/
+
+Josep:
+  name: Josep Marches Parra
+  url: /Nosaltres/
+
+Jordi:
+  name: Jordi Pagès Rivera
+  url: /Nosaltres/
